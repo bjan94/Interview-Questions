@@ -2,4 +2,8 @@
 Collection of interview questions solved
 
 ## Arrays and Lists
-1. Median of Sorted Arrays
+  * Median of sorted arrays
+  * Merge two linked lists into one
+#### Sliding Window
+  * Container with max area given height array
+    

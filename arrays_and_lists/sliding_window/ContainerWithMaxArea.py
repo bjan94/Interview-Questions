@@ -1,25 +1,12 @@
 class Solver:
     """
-    There are two sorted arrays nums1 and nums2 of size m and n respectively.
+    Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai).
+    n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0).
+    Find two lines, which together with x-axis forms a container, such that the container contains the most water.
 
-    Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
-
-    Example 1:
-    nums1 = [1, 3]
-    nums2 = [2]
-
-    The median is 2.0
-    Example 2:
-    nums1 = [1, 2]
-    nums2 = [3, 4]
-
-    The median is (2 + 3)/2 = 2.5
+    Note: You may not slant the container and n is at least 2.
     """
     def find_max_area(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
         start = 0
         end = len(height) - 1
         max_area = 0

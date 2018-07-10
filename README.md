@@ -13,3 +13,10 @@ Collection of interview questions solved
 
 ## Strings
   * Convert string to zig zag pattern [ZigZagString.py](strings/ZigZagString.py)
+  * Find the length of the longest substring without repeating characters
+  [LongestSubstringWithoutRepetition.py](strings/LongestSubstringWithoutRepetition.py)
+
+## Numbers
+  * Palindromic Integer [PalindromicNumber.py](/numbers/PalindromicNumber.py)
+  * Find the [Hamming Distance](https://en.wikipedia.org/wiki/Hamming_distance)
+    of two numbers [HammingDistance.py](numbers/HammingDistance.py)

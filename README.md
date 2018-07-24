@@ -6,6 +6,7 @@ Collection of interview questions solved
   [MedianOfSortedArrays.py](arrays_and_lists/MedianOfSortedArrays.py)
   * Merge two linked lists into one
   [MergeTwoLinkedLists.py](arrays_and_lists/MergeTwoLinkedLists.py)
+  * Reverse Linked List [ReverseLinkedList.py](arrays_and_lists/ReverseLinkedList.py)
 
 #### Sliding Window
   * Container with max area given height array
@@ -15,6 +16,9 @@ Collection of interview questions solved
   * Convert string to zig zag pattern [ZigZagString.py](strings/ZigZagString.py)
   * Find the length of the longest substring without repeating characters
   [LongestSubstringWithoutRepetition.py](strings/LongestSubstringWithoutRepetition.py)
+  * Find the longest palindromic substring
+  [LongestPalindromicSubstring.py](strings/LongestPalindromicSubstring.py)
+  * Find the longest common prefix [LongestCommonPrefix.py](strings/LongestCommonPrefix.py)
 
 ## Numbers
   * Palindromic Integer [PalindromicNumber.py](/numbers/PalindromicNumber.py)

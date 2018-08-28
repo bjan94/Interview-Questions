@@ -7,10 +7,13 @@ Collection of interview questions solved
   * Merge two linked lists into one
   [MergeTwoLinkedLists.py](arrays_and_lists/MergeTwoLinkedLists.py)
   * Reverse Linked List [ReverseLinkedList.py](arrays_and_lists/ReverseLinkedList.py)
-
+  * Trapping Rain Water [TrappingRainWater.py](arrays_and_lists/TrappingRainWater.py)
 #### Sliding Window
   * Container with max area given height array
   [ContainerWithMaxArea.py](arrays_and_lists/sliding_window/ContainerWithMaxArea.py)
+
+#### 2D Arrays
+  * Find the number of islands [NumberOfIslands.py](arrays_and_lists/2d_arrays/NumberOfIslands.py)
 
 ## Strings
   * Convert string to zig zag pattern [ZigZagString.py](strings/ZigZagString.py)

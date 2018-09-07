@@ -15,15 +15,14 @@ class Solver:
         if not array:
             return 0
 
-        maxAtIndex = []
-        maxAtIndex.append(array[0])
-        maxSum = maxAtIndex[0]
+        max_at_index = [array[0]]
+        max_sum = max_at_index[0]
 
         for i in range (1, len(array)):
-            maxAtIndex.append(max(array[i], maxAtIndex[i-1] + array[i]))
-            maxSum = max(maxSum, maxAtIndex[i])
+            max_at_index.append(max(array[i], max_at_index[i-1] + array[i]))
+            max_sum = max(max_sum, max_at_index[i])
 
-        return maxSum
+        return max_sum
 
 
 def main():

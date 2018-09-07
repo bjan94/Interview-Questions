@@ -8,10 +8,14 @@ Collection of interview questions solved
   [MergeTwoLinkedLists.py](arrays_and_lists/MergeTwoLinkedLists.py)
   * Reverse Linked List [ReverseLinkedList.py](arrays_and_lists/ReverseLinkedList.py)
   * Merge K Sorted Lists [MergeKSortedLists.py](arrays_and_lists/MergeKSortedLists.py)
+  * Trapping Rain Water [TrappingRainWater.py](arrays_and_lists/TrappingRainWater.py)
 
 #### Sliding Window
   * Container with max area given height array
   [ContainerWithMaxArea.py](arrays_and_lists/sliding_window/ContainerWithMaxArea.py)
+
+#### 2D Arrays
+  * Find the number of islands [NumberOfIslands.py](arrays_and_lists/2d_arrays/NumberOfIslands.py)
 
 ## Dynamic Programming
   * Find the Maximum sum of a subarray
